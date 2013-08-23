@@ -7,9 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "",
-            "email": "",
-            "homepage": ""
+            "name": "Arnaud Bey",
+            "email": "arnaud.bey@u-grenoble3.fr"
         }
     ],
     "require": {
