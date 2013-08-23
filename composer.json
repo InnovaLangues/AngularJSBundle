@@ -1,0 +1,25 @@
+{
+    "name": "innova/angularjs",
+    "type": "library",
+    "description": "AngularJS Symfony 2 bundle",
+    "keywords": ["angular","symfony2"],
+    "homepage": "http://github.com/InnovaLangues/AngularJSBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "",
+            "email": "",
+            "homepage": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "symfony/framework-bundle":  "2.*",
+        "symfony/symfony":           "2.*"
+    },
+    "autoload": {
+        "psr-0": { "Innova\\AngularJSBundle": "." }
+    },
+    "target-dir": "Innova/AngularJSBundle"
+}
+
