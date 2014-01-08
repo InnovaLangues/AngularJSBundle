@@ -4,10 +4,11 @@ Symfony 2 bundle which provides Angular JS source files.
 
 ## Installation
 
-	# With composer
+Install with composer :
+	
 	$ composer require "innova/angular-js" "1.0"
 
 ## Authors
 
-* Axel PENIN (Elorfin)
+* Axel Penin (Elorfin)
 * Arnaud Bay (arnaudbey)
