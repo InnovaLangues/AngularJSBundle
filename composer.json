@@ -1,24 +1,30 @@
 {
-    "name": "innova/angularjs",
-    "type": "library",
-    "description": "AngularJS Symfony 2 bundle",
-    "keywords": ["angular","symfony2"],
-    "homepage": "http://github.com/InnovaLangues/AngularJSBundle",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Arnaud Bey",
-            "email": "arnaud.bey@u-grenoble3.fr"
-        }
-    ],
-    "require": {
-        "php": ">=5.3.0",
-        "symfony/framework-bundle":  "2.*",
-        "symfony/symfony":           "2.*"
-    },
-    "autoload": {
-        "psr-0": { "Innova\\AngularJSBundle": "." }
-    },
-    "target-dir": "Innova/AngularJSBundle"
+	"name" : "innova/angularjs",
+	"description" : "AngularJS Symfony 2 bundle",
+	"type" : "library",
+	"authors" : [{
+			"name" : "Arnaud Bey",
+			"email" : "arnaud.bey@u-grenoble3.fr"
+		}
+	],
+	"keywords" : [
+		"angular",
+		"symfony2"
+	],
+	"homepage" : "http://github.com/InnovaLangues/AngularJSBundle",
+	"license" : [
+		"MIT"
+	],
+	"require" : {
+		"symfony/symfony" : "2.*",
+		"php" : ">=5.3.0",
+		"claroline/kernel-bundle" : "~1.0",
+		"symfony/framework-bundle" : "2.*"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Innova\\AngularJSBundle" : "."
+		}
+	},
+	"target-dir" : "Innova/AngularJSBundle"
 }
-
