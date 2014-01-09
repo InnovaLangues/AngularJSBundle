@@ -8,7 +8,7 @@ Angular JS compiled files for Symfony 2 applications.
 
 Install with composer :
 	
-	$ composer require "innova/angular-js-bundle" "1.0"
+	$ composer require "innova/angular-js-bundle" "1.*"
 
 ## Angular Version
 
