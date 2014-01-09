@@ -1,10 +1,13 @@
 {
 	"name" : "innova/angularjs",
-	"description" : "AngularJS Symfony 2 bundle",
+	"description" : "Symfony 2 bundle which provides Angular JS source files",
 	"type" : "library",
 	"authors" : [{
 			"name" : "Arnaud Bey",
 			"email" : "arnaud.bey@u-grenoble3.fr"
+		}, {
+			"name" : "Axel Penin",
+			"email" : "axel.penin@u-grenoble3.fr"
 		}
 	],
 	"keywords" : [
