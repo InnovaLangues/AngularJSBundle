@@ -18,7 +18,7 @@ v1.2.7
 
 * Donovan Tengblad (purplefish32)
 * Axel Penin (Elorfin)
-* Arnaud Bay (arnaudbey)
+* Arnaud Bey (arnaudbey)
 * Eric Vincent (ericvincenterv)
 
 [1]: https://insight.sensiolabs.com/projects/9fa8d0f2-44bf-4eec-a27a-dfcd121ca68b/small.png
