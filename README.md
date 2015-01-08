@@ -12,7 +12,7 @@ Install with composer :
 
 ## Angular Version
 
-v1.2.7
+v1.3.8
 
 ## Authors
 
